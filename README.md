@@ -8,4 +8,7 @@ I'm an excellent problem solver in both real life and on computers. Right now I 
 - 👩‍💻 Currently working as an intern for a Florida-based web3 company
 - 🚀 Apart from coding, I play a lot of video games and I love writing detailed reviews about them.
   <br>
-  ![](https://visitor-badge.laobi.icu/badge?page_id=rk03ind.visitor-badge&style=flat-square&color=0088cc)<br>
+  <br>
+
+  ![](https://visitor-badge.laobi.icu/badge?page_id=rk03ind.visitor-badge&style=flat-square&color=0088cc)
+  [![wakatime](https://wakatime.com/badge/user/a7924e1b-9408-4de7-aac3-b6d8a4e258a1.svg)](https://wakatime.com/@a7924e1b-9408-4de7-aac3-b6d8a4e258a1)
