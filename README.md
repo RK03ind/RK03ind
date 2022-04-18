@@ -16,3 +16,5 @@ I have a serious passion for coding and software development.Right now I am focu
   ## My Github Status
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rk03ind&theme=tokyonight&show_icons=true)
+
+[![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
