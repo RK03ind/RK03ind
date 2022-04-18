@@ -13,9 +13,11 @@
   ## My Github Status
   
   [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rk03ind&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+  [![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk03ind&theme=tokyonight)
 
-  [![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
