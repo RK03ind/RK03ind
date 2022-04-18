@@ -12,7 +12,7 @@
 
   ## My Github Status
 
-  [![Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rk03ind}&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk03ind&theme=tokyonight
 
   [![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
