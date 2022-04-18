@@ -11,9 +11,11 @@
   [![wakatime](https://wakatime.com/badge/user/a7924e1b-9408-4de7-aac3-b6d8a4e258a1.svg)](https://wakatime.com/@a7924e1b-9408-4de7-aac3-b6d8a4e258a1)
 
   ## My Github Status
+  
+  [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rk03ind&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk03ind&theme=tokyonight)
 
   [![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rk03ind&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
