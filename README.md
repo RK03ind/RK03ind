@@ -17,6 +17,6 @@ I have a serious passion for coding and software development.Right now I am focu
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rk03ind&theme=tokyonight&show_icons=true)
 
-  [![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+  [![ top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk03ind&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rk03ind&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=rk03ind&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
