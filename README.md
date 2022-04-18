@@ -1,7 +1,7 @@
 ## Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rudra!
 
 I'm a 18 year old Web Developer. I have a serious passion for coding and software development.
-I'm an excellent problem solver in both real life and on computers. Right now I am focusing on making good projects for my portfolio and writing clean, understandable, and high-quality code.
+I'm an excellent problem solver in both real life and on computers. Right now I am focusing the most on making good projects for my portfolio and writing clean, understandable, and high-quality code.
 <br>
 
 - 🔧 My current tech stack includes React.js, Express.js, React Query & Redux
