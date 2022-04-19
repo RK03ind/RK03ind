@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♂️ I'm a 18 year old Web Developer. 
 - 🔧 My current tech stack includes React.js, Express.js, React Query & Redux.
-- 🧑‍💻 Currently working as an intern for a Florida-based web3 company.
+- 👨‍💻 Currently working as an intern for a Florida-based web3 company.
 - 🎯 I am focusing the most on making good projects for my portfolio and writing clean, understandable, and high-quality code.
 - 🚀 Apart from coding, I play a lot of video games and I love writing detailed reviews about them.
 
