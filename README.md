@@ -1,9 +1,13 @@
  ## Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rudra!
 
 - 🙋🏻‍♂️ A 18 year old Web Developer. 
+
 - 🔧 My Tech Stack includes React.js, Express.js, React Query, Redux & MongoDB.
+
 - 👨‍💻 Currently working as an intern for a Florida-based web3 company.
+
 - 🎯 I am focusing the most on making good projects for my portfolio and writing clean, understandable, and high-quality code.
+
 - 🚀 Apart from coding, I play a lot of video games and I have avid interest in game journalism.
 <br/>
 
