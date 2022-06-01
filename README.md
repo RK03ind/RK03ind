@@ -1,4 +1,4 @@
- ## Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px;"> I'm Rudra!
+ ## Hi, I'm Rudra!
 
 - 🙋🏻‍♂️ A 18 year old Web Developer. 
 
