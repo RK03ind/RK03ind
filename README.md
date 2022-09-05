@@ -2,9 +2,9 @@
 
 - 🙋🏻‍♂️ A 18 year old Web Developer. 
 
-- 🔧 My Tech Stack includes React.js, Express.js, React Query, Redux & MongoDB.
+- 🔧 My Tech Stack includes React.js, Express.js, React Query, & MongoDB.
 
-- 👨‍💻 Currently working as an intern for a Florida-based web3 company.
+- 👨‍💻 Currently working as an Frontend Developer for a Florida-based web3 company.
 
 - 🎯 I am focusing the most on making good projects for my portfolio and writing clean, understandable, and high-quality code.
 
