@@ -1,6 +1,6 @@
  ## Hi, I'm Rudra!
 
-- 🙋🏻‍♂️ A 18 year old Web Developer. 
+- 🙋🏻‍♂️ A 19 year old Web Developer. 
 
 - 🔧 My Tech Stack includes React.js, Express.js, React Query, & MongoDB.
 
