@@ -1,10 +1,10 @@
  ## Hi, I'm Rudra!
 
-- 🙋🏻‍♂️ A 19 year old Web Developer. 
+- 🙋🏻‍♂️ A 20 year old Web Developer. 
 
 - 🔧 My Tech Stack includes React.js, Express.js, React Query, & MongoDB.
 
-- 👨‍💻 Currently working as an Frontend Developer for a Florida-based web3 company.
+- 👨‍💻 Currently working as an part time Freelance Frontend Developer.
 
 - 🎯 I am focusing the most on making good projects for my portfolio and writing clean, understandable, and high-quality code.
 
