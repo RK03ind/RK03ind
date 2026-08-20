@@ -1,14 +1,14 @@
  ## Hi, I'm Rudra!
 
-- 🙋🏻‍♂️ A 21 year old Web Developer. 
+- 🙋🏻‍♂️ A 23 year old Web Developer. 
 
 - 🔧 My Tech Stack includes React.js, Express.js, React Query, & MongoDB.
 
-- 👨‍💻 Currently working as an part time Freelance Frontend Developer.
+- 👨‍💻 Currently studying as a Post Graduate Student in Jadavpur University.
 
 - 🎯 I am focusing the most on making good projects for my portfolio and writing clean, understandable, and high-quality code.
 
-- 🚀 Apart from coding, I play a lot of video games and I have avid interest in game journalism.
+- 🚀 Apart from coding, I play a lot of video games and I love travelling.
 <br/>
 
   ![](https://visitor-badge.laobi.icu/badge?page_id=rk03ind.visitor-badge&style=flat-square&color=0088cc)&nbsp;&nbsp;&nbsp;&nbsp;
